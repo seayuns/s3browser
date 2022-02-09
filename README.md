@@ -1,2 +1,2 @@
-# s3brower
-rust version s3brower
+# s3browser
+rust version s3browser
